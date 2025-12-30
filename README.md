@@ -1,5 +1,9 @@
 <h1>Hi, I'm Erik Gonzalez! <br/><a href="https://github.com/maverikhunter">Cloud Security & Network Architect</a> | <a href="https://cyberbits8.wordpress.com/">Technical Blogger</a></h1>
 
+<p align="center">
+  🚀 <b>Main Portfolio Repository:</b> <a href="https://github.com/maverikhunter/Security-Projects"><b>Security-Projects</b></a>
+</p>
+
 <p>I specialize in building secure, automated, and scalable cloud infrastructures. My portfolio showcases a deep-dive into AWS networking, Azure security operations, and offensive security research.</p>
 
 <h2>🌐 Network Security & Architecture: [AWS VPC Project Hub](https://github.com/maverikhunter/Security-Projects/tree/main/AWS-VPC-Project)</h2>
@@ -52,4 +56,4 @@
 
 [linkedin]: https://linkedin.com/in/YOUR-LINKEDIN-URL
 [github]: https://github.com/maverikhunter
-[blog
+[blog]: https://cyberbits8.wordpress.com/
