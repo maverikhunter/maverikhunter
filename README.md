@@ -21,10 +21,10 @@
 - <b>Vulnerability Management & SIEM</b>
   - [Azure Vulnerability Scanner (PDF)](https://github.com/maverikhunter/Security-Projects/blob/main/Azure%20Vulnerability%20Mangement%20Lab.pdf) - Managed a full vulnerability lifecycle including discovery, analysis, and remediation using OpenVAS in Azure.
   - [Azure - Live Threat Detection & Geo-Mapping SIEM Lab](https://github.com/maverikhunter/Security-Projects/blob/main/Azure%20-%20Live%20Threat%20Detection%20%26%20Geo-Mapping%20SIEM%20Lab.pdf) - Configured live threat detection to map global RDP brute-force attacks in real-time.
-  - [AWS GuardDuty Threat Detection (PDF)](https://github.com/maverikhunter/Security-Projects/blob/main/Threat%20Detection%20with%20GuardDuty.pdf) - Analyzed AI-powered findings for SQL Injection and Malware in S3 buckets.
+  - [AWS GuardDuty Threat Detection (PDF)](https://github.com/maverikhunter/Security-Projects/blob/main/Cloud-Security-and-IAM/Threat%20Detection%20with%20GuardDuty.pdf) - Analyzed AI-powered findings for SQL Injection and Malware in S3 buckets.
 - <b>Identity & Data Protection</b>
-  - [IAM Governance & Least Privilege (PDF)](https://github.com/maverikhunter/Security-Projects/blob/main/Cloud%20Security%20with%20AWS%20IAM.pdf) - Developed JSON policies to restrict user actions based on resource tags.
-  - [AWS KMS Data Encryption (PDF)](https://github.com/maverikhunter/Security-Projects/blob/main/Encrypt%20Data%20with%20AWS%20KMS.pdf) - Secured DynamoDB tables using customer-managed symmetric keys and transparent data encryption.
+  - [IAM Governance & Least Privilege (PDF)](https://github.com/maverikhunter/Security-Projects/blob/main/Cloud-Security-and-IAM/Cloud%20Security%20with%20AWS%20IAM.pdf) - Developed JSON policies to restrict user actions based on resource tags.
+  - [AWS KMS Data Encryption (PDF)](https://github.com/maverikhunter/Security-Projects/blob/main/Cloud-Security-and-IAM/Encrypt%20Data%20with%20AWS%20KMS.pdf) - Secured DynamoDB tables using customer-managed symmetric keys and transparent data encryption.
 
 <h2>🪤 Attack Simulation & Deception: [Research Portfolio](https://cyberbits8.wordpress.com/)</h2>
 
