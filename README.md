@@ -22,7 +22,7 @@
 <h2>🚀 DevOps & Infrastructure as Code (IaC):</h2>
 
 - <b>AWS Automation & Governance</b>
-  - [Terraform Infrastructure Lifecycle](https://github.com/maverikhunter/DevOps-and-Infrastructure) - Automated S3 resource deployment using modular configuration files and state-lock management.
+  - [Terraform Infrastructure Lifecycle](DevOps-and-Infrastructure) - Automated S3 resource deployment using modular configuration files and state-lock management.
   - [IAM Governance & Least Privilege](https://github.com/maverikhunter/Security-Projects) - Designed JSON-based IAM policies using ResourceTags for strict environment-level access control.
 - <b>Cloud Data Protection</b>
   - [AWS KMS Data Encryption](https://github.com/maverikhunter/Security-Projects) - Secured DynamoDB data using symmetric keys and cryptographic permission separation.
