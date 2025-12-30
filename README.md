@@ -12,7 +12,7 @@
 <h2>🛡️ Offensive & Defensive Security (SOC Ops):</h2>
 
 - <b>SIEM Operations & Incident Response</b>
-  - [Azure Sentinel: Live Threat Detection & Geo-Mapping](https://github.com/maverikhunter/Security-Projects) - Deployed a live SIEM to monitor and map global RDP brute-force attacks.
+  - [Azure Sentinel: Live Threat Detection & Geo-Mapping](https://github.com/maverikhunter/Security-Projects/blob/main/Azure%20-%20Live%20Threat%20Detection%20%26%20Geo-Mapping%20SIEM%20Lab.pdf) - Deployed a live SIEM to monitor and map global RDP brute-force attacks.
   - [AWS Security Monitoring System](https://github.com/maverikhunter/Security-Projects) - Configured <b>CloudTrail</b> and <b>CloudWatch</b> alarms with <b>SNS</b> notifications to detect unauthorized access to AWS Secrets.
 - <b>SOC Security Analysis & Attack Simulation</b>
   - [SOC Analysis Portfolio](https://github.com/maverikhunter/Security-Projects) - Documented end-to-end incident response workflows for security alerts.
