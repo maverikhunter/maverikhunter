@@ -9,7 +9,7 @@
 <h2>🌐 Network Security & Architecture: [AWS VPC Project Hub](https://github.com/maverikhunter/Security-Projects/tree/main/AWS-VPC-Project)</h2>
 
 - <b>VPC Design & Segmentation</b>
-  - [VPC Architecture & Subnetting (PDF)](https://github.com/maverikhunter/Security-Projects/blob/main/Build%20a%20Virtual%20Private%20Cloud%20(VPC)%20pt%201.pdf) - Engineered custom IPv4 CIDR blocks and internet gateway configurations.
+  - [VPC Architecture & Subnetting (PDF)](https://github.com/maverikhunter/Security-Projects/tree/main/AWS-VPC-Project%20) - Engineered custom IPv4 CIDR blocks and internet gateway configurations.
   - [Traffic Flow & Security (PDF)](https://github.com/maverikhunter/Security-Projects/blob/main/AWS-VPC-Project%20/02-Traffic%20Flow%20and%20Security.pdf) - Implemented Security Groups and Network ACLs to control inbound and outbound traffic.
   - [Private Subnet Implementation (PDF)](https://github.com/maverikhunter/Security-Projects/blob/main/AWS-VPC-Project%20/03-Creating%20a%20Private%20Subnet.pdf) - Isolated sensitive resources from the public internet using private routing and segmented NACLs.
 - <b>Connectivity & Monitoring</b>
