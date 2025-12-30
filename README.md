@@ -1,48 +1,24 @@
-<h1>Hi, I'm Erik Gonzalez! <br/><a href="https://github.com/maverikhunter">Cloud Security & Network Architect</a> | <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-URL">IT Analyst</a></h1>
+<h2>🌐 Network Security & Architecture (VPC Mastery):</h2>
 
-<h2>🌐 Network Security & Architecture (AWS VPC Mastery):</h2>
-
-- <b>Virtual Private Cloud (VPC) Design & Segmentation</b>
-  - Engineered isolated virtual networks with custom IPv4 CIDR blocks, public/private subnets, and <b>NAT Gateways</b> for secure outbound traffic.
-  - Implemented <b>VPC Peering</b> and <b>Endpoints (Gateway & Interface)</b> to ensure private, secure communication between resources.
-- <b>Traffic Governance & Monitoring</b>
-  - Enforced granular security using <b>Network ACLs</b> and <b>Security Groups</b> to control traffic at the subnet and instance level.
-  - Implemented <b>VPC Flow Logs</b> to capture metadata for security auditing via <b>CloudWatch Log Insights</b>.
+- <b>VPC Design & Segmentation</b>
+  - [VPC Architecture & Subnetting (PDF)](https://github.com/maverikhunter/Security-Projects/blob/main/Build%20a%20Virtual%20Private%20Cloud%20(VPC)%20pt%201.pdf) - Custom IPv4 CIDR blocks and multi-AZ design.
+  - [Private Subnet Implementation (PDF)](https://github.com/maverikhunter/Security-Projects/blob/main/Creating%20a%20Private%20Subnet%20pt%203.pdf) - Configuring NAT Gateways for secure outbound traffic.
+  - [VPC Peering & Endpoints (PDF)](https://github.com/maverikhunter/Security-Projects/blob/main/VPC%20Endpoints%20pt%209.pdf) - Establishing private communication between resources.
+- <b>Monitoring & Traffic Control</b>
+  - [Network Security & Traffic Flow (PDF)](https://github.com/maverikhunter/Security-Projects/blob/main/VPC%20Traffic%20Flow%20and%20Security%20pt%202.pdf) - Implementing Security Groups and Network ACLs.
+  - [VPC Flow Logs & Analysis (PDF)](https://github.com/maverikhunter/Security-Projects/blob/main/VPC%20Monitoring%20with%20Flow%20Logs%20pt%207.pdf) - Capturing IP traffic metadata for security auditing.
 
 <h2>🛡️ Offensive & Defensive Security (SOC Ops):</h2>
 
-- <b>SIEM Operations & Incident Response</b>
-  - [Azure Sentinel: Live Threat Detection & Geo-Mapping](https://github.com/maverikhunter/Security-Projects) - Deployed a live SIEM to monitor and map global RDP brute-force attacks.
-  - [AWS Security Monitoring System](https://github.com/maverikhunter/Security-Projects) - Configured <b>CloudTrail</b> and <b>CloudWatch</b> alarms with <b>SNS</b> notifications to detect unauthorized access to AWS Secrets.
-- <b>SOC Security Analysis & Attack Simulation</b>
-  - [SOC Analysis Portfolio](https://github.com/maverikhunter/Security-Projects) - Documented end-to-end incident response workflows for security alerts.
-  - [GoPhish Phishing Simulation](https://cyberbits8.wordpress.com/2025/11/14/gone-phishing-gophish-phishing-simulator-windows-11-guide/) - Executed phishing campaigns to evaluate risk and implement remediation strategies.
-  - [Cowrie Honeypot Deployment](https://github.com/maverikhunter/Security-Projects) - Monitored an SSH/Telnet honeypot to analyze unauthorized access behavior.
+- <b>SIEM & Incident Response</b>
+  - [AWS Security Monitoring System (PDF)](https://github.com/maverikhunter/Security-Projects/blob/main/Build%20a%20Security%20%20Monitoring%20System.pdf) - Real-time alerting via CloudTrail and SNS.
+  - [GuardDuty Threat Detection (PDF)](https://github.com/maverikhunter/Security-Projects/blob/main/Threat%20Detection%20with%20GuardDuty.pdf) - Detecting SQL and Command Injection attacks.
+- <b>Identity & Access Management (IAM)</b>
+  - [IAM Governance & Least Privilege (PDF)](https://github.com/maverikhunter/Security-Projects/blob/main/Cloud%20Security%20with%20AWS%20IAM.pdf) - Designing strict environment-level access controls.
 
 <h2>🚀 DevOps & Infrastructure as Code (IaC):</h2>
 
-- <b>AWS Automation & Governance</b>
-  - [Terraform Infrastructure Lifecycle](https://github.com/maverikhunter/DevOps-and-Infrastructure) - Automated S3 resource deployment using modular configuration files and state-lock management.
-  - [IAM Governance & Least Privilege](https://github.com/maverikhunter/Security-Projects) - Designed JSON-based IAM policies using ResourceTags for strict environment-level access control.
-- <b>Cloud Data Protection</b>
-  - [AWS KMS Data Encryption](https://github.com/maverikhunter/Security-Projects) - Secured DynamoDB data using symmetric keys and cryptographic permission separation.
-  - [S3 Static Web Hosting](https://github.com/maverikhunter/Security-Projects) - Deployed secure live sites utilizing bucket policies and ACLs.
-
-<h2>🛠️ Technical Skills:</h2>
-
-- <b>SOC & SIEM:</b> Azure Sentinel, LetsDefend, CloudWatch, GuardDuty.
-- <b>Networking:</b> VPC Design, Subnetting, VPC Peering, NAT/Internet Gateways, Route Tables.
-- <b>Security Tools:</b> GoPhish, Cowrie Honeypot, AWS KMS, Network ACLs, Security Groups.
-- <b>Infrastructure & IaC:</b> Terraform, AWS CLI, CloudFormation, S3, EC2, DynamoDB, Aurora.
-
-<h2> 🤳 Connect with me:</h2>
-
-[<img align="left" alt="Erik Gonzalez | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Erik Gonzalez | Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/wordpress.svg" />][blog]
-[<img align="left" alt="Erik Gonzalez | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
-
-<br />
-
-[linkedin]: https://linkedin.com/in/YOUR-LINKEDIN-URL
-[github]: https://github.com/maverikhunter
-[blog]: https://cyberbits8.wordpress.com/
+- <b>Automation & Data Protection</b>
+  - [Terraform Infrastructure Lifecycle (PDF)](https://github.com/maverikhunter/Security-Projects/blob/main/Terraform%20DevOps.pdf) - Automating AWS resources with modular configuration.
+  - [AWS KMS Data Encryption (PDF)](https://github.com/maverikhunter/Security-Projects/blob/main/Encrypt%20Data%20with%20AWS%20KMS.pdf) - Symmetric key encryption for DynamoDB tables.
+  - [S3 Static Web Hosting (PDF)](https://github.com/maverikhunter/Security-Projects/blob/main/Host%20a%20Website%20on%20Amazon%20S3.pdf) - Deploying secure live sites with bucket policies.
