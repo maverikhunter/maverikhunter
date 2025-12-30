@@ -19,8 +19,8 @@
 <h2>🛡️ Security Operations (SOC): [Cloud Security & IAM Project Hub](https://github.com/maverikhunter/Security-Projects/tree/main/Cloud-Security-and-IAM)</h2>
 
 - <b>Vulnerability Management & SIEM</b>
-  - [Azure Vulnerability Management Lab (PDF)](https://github.com/maverikhunter/Security-Projects/blob/main/Azure%20Vulnerability%20Mangement%20Lab.pdf) - Managed a full vulnerability lifecycle including discovery, analysis, and remediation using OpenVAS in Azure.
-  - [Azure Sentinel SIEM](https://github.com/maverikhunter/Security-Projects) - Configured live threat detection to map global RDP brute-force attacks in real-time.
+  - [Azure Vulnerability Scanner (PDF)](https://github.com/maverikhunter/Security-Projects/blob/main/Azure%20Vulnerability%20Mangement%20Lab.pdf) - Managed a full vulnerability lifecycle including discovery, analysis, and remediation using OpenVAS in Azure.
+  - [Azure - Live Threat Detection & Geo-Mapping SIEM Lab](https://github.com/maverikhunter/Security-Projects/blob/main/Azure%20-%20Live%20Threat%20Detection%20%26%20Geo-Mapping%20SIEM%20Lab.pdf) - Configured live threat detection to map global RDP brute-force attacks in real-time.
   - [AWS GuardDuty Threat Detection (PDF)](https://github.com/maverikhunter/Security-Projects/blob/main/Threat%20Detection%20with%20GuardDuty.pdf) - Analyzed AI-powered findings for SQL Injection and Malware in S3 buckets.
 - <b>Identity & Data Protection</b>
   - [IAM Governance & Least Privilege (PDF)](https://github.com/maverikhunter/Security-Projects/blob/main/Cloud%20Security%20with%20AWS%20IAM.pdf) - Developed JSON policies to restrict user actions based on resource tags.
