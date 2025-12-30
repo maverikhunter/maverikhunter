@@ -10,11 +10,11 @@
 
 - <b>VPC Design & Segmentation</b>
   - [VPC Architecture & Subnetting (PDF)](https://github.com/maverikhunter/Security-Projects/blob/main/Build%20a%20Virtual%20Private%20Cloud%20(VPC)%20pt%201.pdf) - Engineered custom IPv4 CIDR blocks and internet gateway configurations.
-  - [Traffic Flow & Security (PDF)](https://github.com/maverikhunter/Security-Projects/blob/main/VPC%20Traffic%20Flow%20and%20Security%20pt%202.pdf) - Implemented Security Groups and Network ACLs to control inbound and outbound traffic.
-  - [Private Subnet Implementation (PDF)](https://github.com/maverikhunter/Security-Projects/blob/main/Creating%20a%20Private%20Subnet%20pt%203.pdf) - Isolated sensitive resources from the public internet using private routing and segmented NACLs.
+  - [Traffic Flow & Security (PDF)](https://github.com/maverikhunter/Security-Projects/blob/main/AWS-VPC-Project%20/02-Traffic%20Flow%20and%20Security.pdf) - Implemented Security Groups and Network ACLs to control inbound and outbound traffic.
+  - [Private Subnet Implementation (PDF)](https://github.com/maverikhunter/Security-Projects/blob/main/AWS-VPC-Project%20/03-Creating%20a%20Private%20Subnet.pdf) - Isolated sensitive resources from the public internet using private routing and segmented NACLs.
 - <b>Connectivity & Monitoring</b>
-  - [VPC Peering & Endpoints (PDF)](https://github.com/maverikhunter/Security-Projects/blob/main/VPC%20Endpoints%20pt%209.pdf) - Established secure, private communication between resources using Gateway and Interface endpoints.
-  - [VPC Flow Logs & Analysis (PDF)](https://github.com/maverikhunter/Security-Projects/blob/main/VPC%20Monitoring%20with%20Flow%20Logs%20pt%207.pdf) - Leveraged CloudWatch Log Insights to analyze IP traffic metadata for security auditing.
+  - [VPC Peering & Endpoints (PDF)](https://github.com/maverikhunter/Security-Projects/tree/main/AWS-VPC-Project%20) - Established secure, private communication between resources using Gateway and Interface endpoints.
+  - [VPC Flow Logs & Analysis (PDF)](https://github.com/maverikhunter/Security-Projects/blob/main/AWS-VPC-Project%20/07-VPC%20Monitoring%20with%20Flow%20Logs.pdf) - Leveraged CloudWatch Log Insights to analyze IP traffic metadata for security auditing.
 
 <h2>🛡️ Security Operations (SOC): [Cloud Security & IAM Project Hub](https://github.com/maverikhunter/Security-Projects/tree/main/Cloud-Security-and-IAM)</h2>
 
