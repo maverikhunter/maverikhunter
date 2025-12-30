@@ -35,8 +35,8 @@
 <h2>🚀 DevOps & Cloud Infrastructure: [DevOps Hub](https://github.com/maverikhunter/Security-Projects/tree/main/DevOps-and-Infrastructure)</h2>
 
 - <b>Automation & Data Management</b>
-  - [Terraform Infrastructure Lifecycle (PDF)](https://github.com/maverikhunter/Security-Projects/blob/main/Terraform%20DevOps.pdf) - Automated AWS S3 and IAM resource deployment using Infrastructure as Code (IaC).
-  - [Amazon Aurora & DynamoDB Architectures (PDF)](https://github.com/maverikhunter/Security-Projects/blob/main/Load%20Data%20into%20DynamoDB%20Table.pdf) - Implemented both relational clusters and high-speed NoSQL database solutions.
+  - [Terraform Infrastructure Lifecycle (PDF)](https://github.com/maverikhunter/Security-Projects/blob/main/DevOps-and-Infrastructure/Terraform%20DevOps.pdf) - Automated AWS S3 and IAM resource deployment using Infrastructure as Code (IaC).
+  - [Amazon Aurora & DynamoDB Architectures (PDF)](https://github.com/maverikhunter/Security-Projects/blob/main/DevOps-and-Infrastructure/Aurora%20Database%20with%20EC2.pdf) - Implemented both relational clusters and high-speed NoSQL database solutions.
 
 <h2>🛠️ Technical Skills:</h2>
 
