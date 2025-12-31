@@ -24,13 +24,13 @@ My work combines hands-on security engineering, SOC operations, and DevOps autom
 https://github.com/maverikhunter/Security-Projects/tree/main/AWS-VPC-Project%20
 
 **VPC Design & Segmentation**
-- [VPC Architecture & Subnetting (PDF)](https://github.com/maverikhunter/Security-Projects/tree/main/AWS-VPC-Project%20)
-- [Traffic Flow & Security (PDF)](https://github.com/maverikhunter/Security-Projects/blob/main/AWS-VPC-Project%20/02-Traffic%20Flow%20and%20Security.pdf)
-- [Private Subnet Implementation (PDF)](https://github.com/maverikhunter/Security-Projects/blob/main/AWS-VPC-Project%20/03-Creating%20a%20Private%20Subnet.pdf)
+- [VPC Architecture & Subnetting (PDF)](https://github.com/maverikhunter/Security-Projects/tree/main/AWS-VPC-Project%20) — Designed custom IPv4 addressing and subnet layouts to enforce segmentation and scalability.
+- [Traffic Flow & Security (PDF)](https://github.com/maverikhunter/Security-Projects/blob/main/AWS-VPC-Project%20/02-Traffic%20Flow%20and%20Security.pdf) — Engineered security groups and NACLs to tightly control ingress and egress traffic paths.
+- [Private Subnet Implementation (PDF)](https://github.com/maverikhunter/Security-Projects/blob/main/AWS-VPC-Project%20/03-Creating%20a%20Private%20Subnet.pdf) — Isolated sensitive resources from the public internet using private routing and layered network controls.
 
 **Connectivity & Monitoring**
-- [VPC Peering & Endpoints (PDF)](https://github.com/maverikhunter/Security-Projects/tree/main/AWS-VPC-Project%20)
-- [VPC Flow Logs & Analysis (PDF)](https://github.com/maverikhunter/Security-Projects/blob/main/AWS-VPC-Project%20/07-VPC%20Monitoring%20with%20Flow%20Logs.pdf)
+- [VPC Peering & Endpoints (PDF)](https://github.com/maverikhunter/Security-Projects/tree/main/AWS-VPC-Project%20) — Established secure private connectivity between services without exposing traffic to the public internet.
+- [VPC Flow Logs & Analysis (PDF)](https://github.com/maverikhunter/Security-Projects/blob/main/AWS-VPC-Project%20/07-VPC%20Monitoring%20with%20Flow%20Logs.pdf) — Analyzed network telemetry using CloudWatch Logs Insights to identify anomalies and support investigations.
 
 </details>
 
@@ -43,14 +43,14 @@ https://github.com/maverikhunter/Security-Projects/tree/main/AWS-VPC-Project%20
 https://github.com/maverikhunter/Security-Projects/tree/main/Cloud-Security-and-IAM
 
 **Vulnerability Management & SIEM**
-- [LetsDefend SOC SIEM Simulation](https://cyberbits8.wordpress.com)
-- [Azure Vulnerability Scanner (PDF)](https://github.com/maverikhunter/Security-Projects/blob/main/Azure%20Vulnerability%20Mangement%20Lab.pdf)
-- [Azure Live Threat Detection & Geo-Mapping SIEM Lab (PDF)](https://github.com/maverikhunter/Security-Projects/blob/main/Azure%20-%20Live%20Threat%20Detection%20%26%20Geo-Mapping%20SIEM%20Lab.pdf)
-- [AWS GuardDuty Threat Detection (PDF)](https://github.com/maverikhunter/Security-Projects/blob/main/Cloud-Security-and-IAM/Threat%20Detection%20with%20GuardDuty.pdf)
+- [LetsDefend SOC SIEM Simulation](https://cyberbits8.wordpress.com) — Performed hands-on alert triage, incident investigation, and remediation in a simulated SOC environment.
+- [Azure Vulnerability Scanner (PDF)](https://github.com/maverikhunter/Security-Projects/blob/main/Azure%20Vulnerability%20Mangement%20Lab.pdf) — Executed full vulnerability lifecycle management using OpenVAS within a cloud-hosted environment.
+- [Azure Live Threat Detection & Geo-Mapping SIEM Lab (PDF)](https://github.com/maverikhunter/Security-Projects/blob/main/Azure%20-%20Live%20Threat%20Detection%20%26%20Geo-Mapping%20SIEM%20Lab.pdf) — Built real-time threat detection pipelines visualizing global RDP brute-force attacks.
+- [AWS GuardDuty Threat Detection (PDF)](https://github.com/maverikhunter/Security-Projects/blob/main/Cloud-Security-and-IAM/Threat%20Detection%20with%20GuardDuty.pdf) — Investigated GuardDuty findings including SQL injection attempts and S3 malware indicators.
 
 **Identity & Data Protection**
-- [IAM Governance & Least Privilege (PDF)](https://github.com/maverikhunter/Security-Projects/blob/main/Cloud-Security-and-IAM/Cloud%20Security%20with%20AWS%20IAM.pdf)
-- [AWS KMS Data Encryption (PDF)](https://github.com/maverikhunter/Security-Projects/blob/main/Cloud-Security-and-IAM/Encrypt%20Data%20with%20AWS%20KMS.pdf)
+- [IAM Governance & Least Privilege (PDF)](https://github.com/maverikhunter/Security-Projects/blob/main/Cloud-Security-and-IAM/Cloud%20Security%20with%20AWS%20IAM.pdf) — Designed granular IAM policies enforcing least privilege through role-based access and resource tagging.
+- [AWS KMS Data Encryption (PDF)](https://github.com/maverikhunter/Security-Projects/blob/main/Cloud-Security-and-IAM/Encrypt%20Data%20with%20AWS%20KMS.pdf) — Implemented encryption at rest using customer-managed keys to protect sensitive cloud data.
 
 </details>
 
@@ -60,8 +60,8 @@ https://github.com/maverikhunter/Security-Projects/tree/main/Cloud-Security-and-
 <summary>🪤 Attack Simulation & Deception — Research Portfolio</summary>
 
 **Deception Research**
-- [Cowrie Honeypot Deployment](https://cyberbits8.wordpress.com/index/cowrie-honeypot-deployment-monitoring/)
-- [Gone Phishing: GoPhish Simulation](https://cyberbits8.wordpress.com/2025/11/14/gone-phishing-gophish-phishing-simulator-windows-11-guide/)
+- [Cowrie Honeypot Deployment](https://cyberbits8.wordpress.com/index/cowrie-honeypot-deployment-monitoring/) — Deployed SSH/Telnet honeypots to capture, analyze, and profile real-world attacker behavior.
+- [Gone Phishing: GoPhish Simulation](https://cyberbits8.wordpress.com/2025/11/14/gone-phishing-gophish-phishing-simulator-windows-11-guide/) — Conducted phishing campaigns to assess human risk and improve organizational security awareness.
 
 </details>
 
@@ -74,8 +74,8 @@ https://github.com/maverikhunter/Security-Projects/tree/main/Cloud-Security-and-
 https://github.com/maverikhunter/Security-Projects/tree/main/DevOps-and-Infrastructure
 
 **Automation & Data Management**
-- [Terraform Infrastructure Lifecycle (PDF)](https://github.com/maverikhunter/Security-Projects/blob/main/DevOps-and-Infrastructure/Terraform%20DevOps.pdf)
-- [Amazon Aurora & DynamoDB Architectures (PDF)](https://github.com/maverikhunter/Security-Projects/blob/main/DevOps-and-Infrastructure/Aurora%20Database%20with%20EC2.pdf)
+- [Terraform Infrastructure Lifecycle (PDF)](https://github.com/maverikhunter/Security-Projects/blob/main/DevOps-and-Infrastructure/Terraform%20DevOps.pdf) — Automated provisioning of cloud storage and identity resources using Infrastructure as Code.
+- [Amazon Aurora & DynamoDB Architectures (PDF)](https://github.com/maverikhunter/Security-Projects/blob/main/DevOps-and-Infrastructure/Aurora%20Database%20with%20EC2.pdf) — Architected both relational and NoSQL data platforms for scalability and high availability.
 
 </details>
 
