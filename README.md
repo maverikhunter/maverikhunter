@@ -6,7 +6,7 @@
 
 <p>I specialize in architecting secure, automated cloud infrastructures and managing multi-layered security operations. My portfolio demonstrates a deep-dive into AWS networking, identity governance, and proactive threat detection.</p>
 
-<h2>🌐 Network Security & Architecture: [AWS VPC Project Hub](https://github.com/maverikhunter/Security-Projects/tree/main/AWS-VPC-Project)</h2>
+<h2>🌐 Network Security & Architecture: [AWS VPC Project Hub](https://github.com/maverikhunter/Security-Projects/tree/main/AWS-VPC-Project%20)</h2>
 
 - <b>VPC Design & Segmentation</b>
   - [VPC Architecture & Subnetting (PDF)](https://github.com/maverikhunter/Security-Projects/tree/main/AWS-VPC-Project%20) - Engineered custom IPv4 CIDR blocks and internet gateway configurations.
