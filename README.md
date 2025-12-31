@@ -1,7 +1,7 @@
 <h1>Hi, I'm Erik Gonzalez! <br/><a href="https://github.com/maverikhunter">Cybersecurity & Cloud Network Engineer</a></h1>
 
 <p align="center">
-  🚀 <b>Main Portfolio Repository:</b> <a href="[https://github.com/maverikhunter/Security-Projects](https://github.com/maverikhunter/Security-Projects/tree/main/AWS-VPC-Project%20)"><b>Security-Projects</b></a>
+  🚀 <b>Main Portfolio Repository:</b> <a href="[https://github.com/maverikhunter/Security-Projects]"><b>Security-Projects</b></a>
 </p>
 
 <p>I specialize in architecting secure, automated cloud infrastructures and managing multi-layered security operations. My portfolio demonstrates a deep-dive into AWS networking, identity governance, and proactive threat detection.</p>
