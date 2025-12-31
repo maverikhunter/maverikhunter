@@ -19,6 +19,7 @@
 <h2>🛡️ Security Operations (SOC): [Cloud Security & IAM Project Hub](https://github.com/maverikhunter/Security-Projects/tree/main/Cloud-Security-and-IAM)</h2>
 
 - <b>Vulnerability Management & SIEM</b>
+ - [LetsDefend Blute Team SOC Simulation)](https://cyberbits8.wordpress.com) - Hands-on blue team SIEM analysis and remediation practice.
   - [Azure Vulnerability Scanner (PDF)](https://github.com/maverikhunter/Security-Projects/blob/main/Azure%20Vulnerability%20Mangement%20Lab.pdf) - Managed a full vulnerability lifecycle including discovery, analysis, and remediation using OpenVAS in Azure.
   - [Azure - Live Threat Detection & Geo-Mapping SIEM Lab](https://github.com/maverikhunter/Security-Projects/blob/main/Azure%20-%20Live%20Threat%20Detection%20%26%20Geo-Mapping%20SIEM%20Lab.pdf) - Configured live threat detection to map global RDP brute-force attacks in real-time.
   - [AWS GuardDuty Threat Detection (PDF)](https://github.com/maverikhunter/Security-Projects/blob/main/Cloud-Security-and-IAM/Threat%20Detection%20with%20GuardDuty.pdf) - Analyzed AI-powered findings for SQL Injection and Malware in S3 buckets.
