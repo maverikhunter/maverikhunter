@@ -21,13 +21,13 @@
 ### AWS VPC Project Hub  
 https://github.com/maverikhunter/Security-Projects/tree/main/AWS-VPC-Project%20
 **VPC Design & Segmentation**
-- [VPC Architecture & Subnetting (PDF)](https://github.com/maverikhunter/Security-Projects/tree/main/AWS-VPC-Project ) — Designed custom IPv4 addressing and subnet layouts to enforce segmentation and scalability.
-- [Traffic Flow & Security (PDF)](https://github.com/maverikhunter/Security-Projects/blob/main/AWS-VPC-Project /02-Traffic%20Flow%20and%20Security.pdf) — Engineered security groups and NACLs to tightly control ingress and egress traffic paths.
-- [Private Subnet Implementation (PDF)](https://github.com/maverikhunter/Security-Projects/blob/main/AWS-VPC-Project /03-Creating%20a%20Private%20Subnet.pdf) — Isolated sensitive resources from the public internet using private routing and layered network controls.
+- [VPC Architecture & Subnetting (PDF)](https://github.com/maverikhunter/Security-Projects/tree/main/AWS-VPC-Project%20) — Designed custom IPv4 addressing and subnet layouts to enforce segmentation and scalability.
+- [Traffic Flow & Security (PDF)](https://github.com/maverikhunter/Security-Projects/blob/main/AWS-VPC-Project%20/02-Traffic%20Flow%20and%20Security.pdf) — Engineered security groups and NACLs to tightly control ingress and egress traffic paths.
+- [Private Subnet Implementation (PDF)](https://github.com/maverikhunter/Security-Projects/blob/main/AWS-VPC-Project%20/03-Creating%20a%20Private%20Subnet.pdf) — Isolated sensitive resources from the public internet using private routing and layered network controls.
 
 **Connectivity & Monitoring**
-- [VPC Peering & Endpoints (PDF)](https://github.com/maverikhunter/Security-Projects/tree/main/AWS-VPC-Project ) — Established secure private connectivity between services without exposing traffic to the public internet.
-- [VPC Flow Logs & Analysis (PDF)](https://github.com/maverikhunter/Security-Projects/blob/main/AWS-VPC-Project /07-VPC%20Monitoring%20with%20Flow%20Logs.pdf) — Analyzed network telemetry using CloudWatch Logs Insights to identify anomalies and support investigations.
+- [VPC Peering & Endpoints (PDF)](https://github.com/maverikhunter/Security-Projects/blob/main/AWS-VPC-Project%20/06-VPC%20Peering.pdf) — Established secure private connectivity between services without exposing traffic to the public internet.
+- [VPC Flow Logs & Analysis (PDF)](https://github.com/maverikhunter/Security-Projects/blob/main/AWS-VPC-Project%20/07-VPC%20Monitoring%20with%20Flow%20Logs.pdf) — Analyzed network telemetry using CloudWatch Logs Insights to identify anomalies and support investigations.
 
 </details>
 
