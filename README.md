@@ -1,7 +1,6 @@
 # Erik Gonzalez — Cybersecurity & Cloud Network Engineer
 
-I design and secure cloud infrastructure with a strong focus on AWS networking, identity governance, and proactive threat detection.  
-My work combines hands-on security engineering, SOC operations, and DevOps automation.
+
 
 🚀 **Main Portfolio Repository:** 👉 https://github.com/maverikhunter/Security-Projects
 
