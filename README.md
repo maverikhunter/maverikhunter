@@ -19,8 +19,7 @@
 <summary>🌐 Network Security & Architecture — Project Portfolio</summary>
 
 ### AWS VPC Project Hub  
-https://github.com/maverikhunter/Security-Projects/tree/main/AWS-VPC-Project 
-
+https://github.com/maverikhunter/Security-Projects/tree/main/AWS-VPC-Project%20
 **VPC Design & Segmentation**
 - [VPC Architecture & Subnetting (PDF)](https://github.com/maverikhunter/Security-Projects/tree/main/AWS-VPC-Project ) — Designed custom IPv4 addressing and subnet layouts to enforce segmentation and scalability.
 - [Traffic Flow & Security (PDF)](https://github.com/maverikhunter/Security-Projects/blob/main/AWS-VPC-Project /02-Traffic%20Flow%20and%20Security.pdf) — Engineered security groups and NACLs to tightly control ingress and egress traffic paths.
