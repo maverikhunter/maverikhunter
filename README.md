@@ -69,8 +69,6 @@
 <details>
 <summary>⚙️ DevOps & Cloud Infrastructure — DevOps Hub</summary>
 
-### DevOps & Infrastructure Projects  
-https://github.com/maverikhunter/Security-Projects/tree/main/DevOps-and-Infrastructure
 
 **Automation & Data Management**
 - [Terraform Infrastructure Lifecycle (PDF)](https://github.com/maverikhunter/Security-Projects/blob/main/DevOps-and-Infrastructure/Terraform%20DevOps.pdf) — Automated provisioning of cloud storage and identity resources using Infrastructure as Code.
