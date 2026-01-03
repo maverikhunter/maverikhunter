@@ -35,8 +35,7 @@
 <details>
 <summary>🛡️ Security Operations (SOC) & Automation — Portfolio</summary>
 
-### Cloud Security, IAM & Automation Project Hub  
-https://github.com/maverikhunter/Security-Projects
+
 
 **Security Automation & Integrity Monitoring**
 - [PowerShell File Integrity Monitor (FIM)](https://github.com/maverikhunter/Security-Projects/tree/main/PowerShell-FIM) — Developed a custom security tool to detect unauthorized file changes using SHA512 hashing and real-time state comparison.
