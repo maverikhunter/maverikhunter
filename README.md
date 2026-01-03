@@ -18,8 +18,6 @@
 <details>
 <summary>🌐 Network Security & Architecture — Project Portfolio</summary>
 
-### AWS VPC Project Hub  
-[(Project Hub)](https://github.com/maverikhunter/Security-Projects/tree/main/AWS-VPC-Project%20)
 
 **VPC Design & Segmentation**
 - [VPC Architecture & Subnetting (Folder)](https://github.com/maverikhunter/Security-Projects/tree/main/AWS-VPC-Project%20) — Designed custom IPv4 addressing and subnet layouts to enforce segmentation and scalability.
