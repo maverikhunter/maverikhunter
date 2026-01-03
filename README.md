@@ -21,7 +21,7 @@
 ### AWS VPC Project Hub  
 https://github.com/maverikhunter/Security-Projects/tree/main/AWS-VPC-Project%20
 **VPC Design & Segmentation**
-- [VPC Architecture & Subnetting (PDF)](https://github.com/maverikhunter/Security-Projects/tree/main/AWS-VPC-Project%20) — Designed custom IPv4 addressing and subnet layouts to enforce segmentation and scalability.
+- [VPC Architecture & Subnetting (Folder)](https://github.com/maverikhunter/Security-Projects/tree/main/AWS-VPC-Project%20) — Designed custom IPv4 addressing and subnet layouts to enforce segmentation and scalability.
 - [Traffic Flow & Security (PDF)](https://github.com/maverikhunter/Security-Projects/blob/main/AWS-VPC-Project%20/02-Traffic%20Flow%20and%20Security.pdf) — Engineered security groups and NACLs to tightly control ingress and egress traffic paths.
 - [Private Subnet Implementation (PDF)](https://github.com/maverikhunter/Security-Projects/blob/main/AWS-VPC-Project%20/03-Creating%20a%20Private%20Subnet.pdf) — Isolated sensitive resources from the public internet using private routing and layered network controls.
 
