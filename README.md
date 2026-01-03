@@ -3,17 +3,16 @@
 I design and secure cloud infrastructure with a strong focus on AWS networking, identity governance, and proactive threat detection.  
 My work combines hands-on security engineering, SOC operations, and DevOps automation.
 
-🚀 **Main Portfolio Repository:**  
-👉 https://github.com/maverikhunter/Security-Projects
+🚀 **Main Portfolio Repository:** 👉 https://github.com/maverikhunter/Security-Projects
 
 ---
 
 ## Focus Areas
 
 - ☁️ **Cloud & Network Security** — AWS VPC, IAM, GuardDuty, KMS  
-- 🛡️ **Security Operations (SOC)** — SIEM, vulnerability management, threat detection  
+- 🛡️ **Security Operations (SOC)** — SIEM, vulnerability management, FIM, threat detection  
 - 🪤 **Adversary Simulation** — Honeypots, phishing, attacker research  
-- ⚙️ **DevOps & Automation** — Terraform, Infrastructure as Code, cloud data platforms  
+- ⚙️ **DevOps & Automation** — Terraform, PowerShell Scripting, Infrastructure as Code  
 
 ---
 
@@ -21,26 +20,30 @@ My work combines hands-on security engineering, SOC operations, and DevOps autom
 <summary>🌐 Network Security & Architecture — Project Portfolio</summary>
 
 ### AWS VPC Project Hub  
-https://github.com/maverikhunter/Security-Projects/tree/main/AWS-VPC-Project%20
+https://github.com/maverikhunter/Security-Projects/tree/main/AWS-VPC-Project 
 
 **VPC Design & Segmentation**
-- [VPC Architecture & Subnetting (PDF)](https://github.com/maverikhunter/Security-Projects/tree/main/AWS-VPC-Project%20) — Designed custom IPv4 addressing and subnet layouts to enforce segmentation and scalability.
-- [Traffic Flow & Security (PDF)](https://github.com/maverikhunter/Security-Projects/blob/main/AWS-VPC-Project%20/02-Traffic%20Flow%20and%20Security.pdf) — Engineered security groups and NACLs to tightly control ingress and egress traffic paths.
-- [Private Subnet Implementation (PDF)](https://github.com/maverikhunter/Security-Projects/blob/main/AWS-VPC-Project%20/03-Creating%20a%20Private%20Subnet.pdf) — Isolated sensitive resources from the public internet using private routing and layered network controls.
+- [VPC Architecture & Subnetting (PDF)](https://github.com/maverikhunter/Security-Projects/tree/main/AWS-VPC-Project ) — Designed custom IPv4 addressing and subnet layouts to enforce segmentation and scalability.
+- [Traffic Flow & Security (PDF)](https://github.com/maverikhunter/Security-Projects/blob/main/AWS-VPC-Project /02-Traffic%20Flow%20and%20Security.pdf) — Engineered security groups and NACLs to tightly control ingress and egress traffic paths.
+- [Private Subnet Implementation (PDF)](https://github.com/maverikhunter/Security-Projects/blob/main/AWS-VPC-Project /03-Creating%20a%20Private%20Subnet.pdf) — Isolated sensitive resources from the public internet using private routing and layered network controls.
 
 **Connectivity & Monitoring**
-- [VPC Peering & Endpoints (PDF)](https://github.com/maverikhunter/Security-Projects/tree/main/AWS-VPC-Project%20) — Established secure private connectivity between services without exposing traffic to the public internet.
-- [VPC Flow Logs & Analysis (PDF)](https://github.com/maverikhunter/Security-Projects/blob/main/AWS-VPC-Project%20/07-VPC%20Monitoring%20with%20Flow%20Logs.pdf) — Analyzed network telemetry using CloudWatch Logs Insights to identify anomalies and support investigations.
+- [VPC Peering & Endpoints (PDF)](https://github.com/maverikhunter/Security-Projects/tree/main/AWS-VPC-Project ) — Established secure private connectivity between services without exposing traffic to the public internet.
+- [VPC Flow Logs & Analysis (PDF)](https://github.com/maverikhunter/Security-Projects/blob/main/AWS-VPC-Project /07-VPC%20Monitoring%20with%20Flow%20Logs.pdf) — Analyzed network telemetry using CloudWatch Logs Insights to identify anomalies and support investigations.
 
 </details>
 
 ---
 
 <details>
-<summary>🛡️ Security Operations (SOC) — Cloud Security & IAM Portfolio</summary>
+<summary>🛡️ Security Operations (SOC) & Automation — Portfolio</summary>
 
-### Cloud Security & IAM Project Hub  
-https://github.com/maverikhunter/Security-Projects/tree/main/Cloud-Security-and-IAM
+### Cloud Security, IAM & Automation Project Hub  
+https://github.com/maverikhunter/Security-Projects
+
+**Security Automation & Integrity Monitoring**
+- [PowerShell File Integrity Monitor (FIM)](https://github.com/maverikhunter/Security-Projects/tree/main/PowerShell-FIM) — Developed a custom security tool to detect unauthorized file changes using SHA512 hashing and real-time state comparison.
+- **Automated Alerting** — Implemented color-coded console notifications for file creation, modification, and deletion events to ensure data integrity.
 
 **Vulnerability Management & SIEM**
 - [LetsDefend SOC SIEM Simulation](https://cyberbits8.wordpress.com) — Performed hands-on alert triage, incident investigation, and remediation in a simulated SOC environment.
@@ -85,7 +88,7 @@ https://github.com/maverikhunter/Security-Projects/tree/main/DevOps-and-Infrastr
 
 **Networking:** VPC, Subnetting, Peering, NAT, NACLs, Endpoints  
 **Cloud Security:** GuardDuty, KMS, Azure Sentinel, OpenVAS, CloudTrail  
-**DevOps & Data:** Terraform, AWS CLI, S3, Aurora, DynamoDB
+**Automation & DevOps:** PowerShell, Terraform, Python, AWS CLI, S3, Aurora, DynamoDB
 
 ---
 
